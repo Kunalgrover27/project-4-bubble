@@ -2,6 +2,7 @@ var score=0;
 var timer=60;
 var hit=0;
 
+// documentobjectmodel
 function bubblemaker(){
 var cluster="";
 
